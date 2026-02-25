@@ -1,6 +1,6 @@
 {
   "apiVersion": 1,
-  "id": "dataviz",
+  "id": "charts",
   "name": "Data Charts",
   "description": "Create beautiful charts and data visualizations for your Framer site",
   "icon": "chart",
