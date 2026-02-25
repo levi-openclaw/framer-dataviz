@@ -3,7 +3,8 @@
   "id": "charts",
   "name": "Data Charts",
   "description": "Create beautiful charts and data visualizations for your Framer site",
-  "icon": "chart",
+  "modes": ["canvas"],
+  "icon": "/icon.svg",
   "categories": ["content", "developer-tools", "analytics"],
   "version": "0.1.0",
   "author": {
